@@ -10,3 +10,4 @@ id = "8f5b66ce4e884deb8ea2845a7640d0cb"
 [vars]
 NOT_FOUND_REDIRECT_URL = ""
 REFERRER_TEXT = "prdev-url" 
+SFR23 = “https://cloud.prdev.net/s/SNpWsYLqNc6XXei”
