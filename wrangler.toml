@@ -4,9 +4,9 @@ compatibility_date = "2023-01-01"
 
 [[kv_namespaces]]
 binding = "GO_URLS"
-preview_id = "6ec3404005ee4537bcb35a7660c4f93c"
-id = "6ec3404005ee4537bcb35a7660c4f93c"
+preview_id = "8f5b66ce4e884deb8ea2845a7640d0cb"
+id = "8f5b66ce4e884deb8ea2845a7640d0cb"
 
 [vars]
-NOT_FOUND_REDIRECT_URL = "https://akashrajpurohit.com/404/"
-REFERRER_TEXT = "go.akashrajpurohit.com"
+NOT_FOUND_REDIRECT_URL = ""
+REFERRER_TEXT = "prdev-url" 
